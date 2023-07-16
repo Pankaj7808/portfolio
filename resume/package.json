@@ -4,7 +4,8 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "dev":"nodemon app.js"
+    "dev": "nodemon app.js",
+    "build": "echo 'Build your project here'"
   },
   "keywords": [],
   "author": "",
